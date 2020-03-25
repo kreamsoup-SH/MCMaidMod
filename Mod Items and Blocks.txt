@@ -1,0 +1,29 @@
+Mod Items and Blocks
+
+maid_ruby
+maid_block
+maid_ore
+maid_ingot
+
+
+[maid_Tools]
+maid_axe
+maid_hoe
+maid_pickaxe
+maid_pickaxe2
+maid_shovel
+maid_sword
+
+
+[maid_Machiens]
+maid_Furnace
+
+maid_Bed
+
+
+//related in Kiyo
+Anchin_chocolate
+Fractal_of_LOVE
+Piece_of_LOVE
+
+Love_potion

@@ -1,0 +1,21 @@
+Recipes
+
+1. Anchin_chocolate
+	"type": "minecraft:crafting_shaped"
+	
+	"pattern":
+	[
+		"PPP"
+		"PFP"
+		"PPP"
+	]
+	
+	"key":
+	{
+		"P":~Love_potion~,
+		"F":~Fractal_of_LOVE~
+	}
+
+
+2. Fractal_of_LOVE
+	ingredients: 9 piece of LOVE
