@@ -1,11 +1,15 @@
 Maid Mode
 
-maid_ruby -> maid_block -> maid_Tools, maid_Machiens
-maid_Tools -> maid_ore
+maid_ruby -> maid_block(m_r + ?mc:items?) -> maid_Tools, maid_Machiens
+maid_Tools -> maid_ore -> maid_ingot
 maid
 
-You can make maid_ingot from maid_ore by using maid_Machien.
+You can make maid_ingot from maid_ore by using maid_Machien
 
-maid_ores are spawning under y:4 with 0.4% probability
+maid_ores are spawning under y:4 at a 0.4% probability
 
-You can get maid_ruby from Dragon_Hime(name: Kiyo).
+You can get maid_ruby from Dragon_Hime(name: Kiyo)
+
+Dragon_Hime follows Anchin_chocolate
+
+Piece of Love can be get from maid_ores by 30%
