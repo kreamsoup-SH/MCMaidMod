@@ -1,0 +1,11 @@
+Maid Mode
+
+maid_ruby -> maid_block -> maid_Tools, maid_Machiens
+maid_Tools -> maid_ore
+maid
+
+You can make maid_ingot from maid_ore by using maid_Machien.
+
+maid_ores are spawning under y:4 with 0.4% probability
+
+You can get these maid_ores from Dragon_Hime(name: Senko).
