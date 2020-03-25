@@ -8,4 +8,4 @@ You can make maid_ingot from maid_ore by using maid_Machien.
 
 maid_ores are spawning under y:4 with 0.4% probability
 
-You can get these maid_ores from Dragon_Hime(name: Senko).
+You can get maid_ruby from Dragon_Hime(name: Kiyo).
