@@ -1,4 +1,4 @@
-Maid Mode
+Maid Mod Outline
 
 maid_ruby -> maid_block(m_r + ?mc:items?) -> maid_Tools, maid_Machiens
 maid_Tools -> maid_ore -> maid_ingot
