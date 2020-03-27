@@ -19,3 +19,67 @@ Recipes
 
 2. Fractal_of_LOVE
 	ingredients: 9 piece of LOVE
+	
+3. Love_potion
+	"type": "minecraft:crafting_shaped"
+	
+	"pattern":
+	[
+		"PPP"
+		"PWP"
+		"PPP"
+	]
+	
+	"key":
+	{
+		"P":~piece_of_love~,
+		"W":~mc:Bottle of Water~
+	}
+
+4. Wooden bell hammer
+	"type": "minecraft:crafting_shaped"
+	
+	"pattern":
+	[
+		"R R"
+		"R R"
+		"BLB"
+	]
+	
+	"key":
+	{
+		"L":~Long Lovely Wood Log~,
+		"B":~Big steal ring~,
+		"R":~mc:lead~
+	}
+	
+	
+5. Long Lovely Wood Log
+	"type": "minecraft:crafting_shaped"
+	
+	"pattern":
+	[
+		"   "
+		"WWW"
+		"   "
+	]
+	
+	"key":
+	{
+		"W":~Lovely Wood Log~
+	}
+	
+6. Big steal ring
+	"type": "minecraft:crafting_shaped"
+	
+	"pattern":
+	[
+		"   "
+		"   "
+		"   "
+	]
+	
+	"key":
+	{
+		"":~~
+	}

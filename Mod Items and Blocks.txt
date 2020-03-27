@@ -5,7 +5,6 @@ maid_block
 maid_ore
 maid_ingot
 
-
 [maid_Tools]
 maid_axe
 maid_hoe
@@ -27,3 +26,8 @@ Fractal_of_LOVE
 Piece_of_LOVE
 
 Love_potion
+
+
+Lovely Wood Log
+Big steal ring
+Wooden bell hammer

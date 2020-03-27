@@ -1,0 +1,17 @@
+Maid Mode
+
+maid_ruby -> maid_block(m_r + ?mc:items?) -> maid_Tools, maid_Machiens
+maid_Tools -> maid_ore -> maid_ingot
+maid
+
+You can make "maid_ingot" from "maid_ore" by using 'maid_Machien'
+
+"maid_ore"s are spawning under y:4
+
+
+You can get "Piece of LOVE" from "Dragon_Hime"(name: Kiyo)
+
+"Dragon_Hime" follows "Anchin_chocolate"
+If you already found "Kiyo's castle" and you have at least two "mc:Potion of Fire Resistance",
+	you can get in 'dojoji_bell' and ring the bell and get her.
+
