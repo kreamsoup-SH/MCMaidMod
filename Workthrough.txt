@@ -1,28 +1,35 @@
 Steps to Maid
 
-1. Find "Dragon_maid"(Kiyo)
+1. Find "Dragon castle"(Kiyo)
 Option 1 : make anchin chocolate
 Option 2 : dojoji-bell
 
 1-1
-make 'Anchin_chocolate'
-eat 'Anchin_chocolate'
+make "Anchin_chocolate"
+eat "Anchin_chocolate"
 then "Dragon_maid" will find you and follow you
 
 1-2
 make TWO "Potion of Fire Resistance"s
-find "Kiyo's castle"
 make "Wooden bell hammer"
+Go back "Dragon castle"
 use one "Potion of Fire Resistance" to you and ring the 'dojoji-bell' with "Wooden bell hammer"
-"kiyo" will come to you and blast the bell and you together.
-You have to wait until you can see the "Dragon_maid"
-Throw "Potion of Fire Resistance" to the "Dragon_maid" and hit her.
-Then she will stop blasting and fall down.
-Wait until she wake up next to her.
+"kiyo" will come to you
+Wait until you can see the "Dragon_maid"
+Throw "Potion of Fire Resistance" to the "Dragon_maid" and hit her
+Then she will stop blasting fire and fall down
+Wait until she wake up next to her
 then "Dragon_maid" will follow you
 
+1.5 (optional)
+If you make "Anchin_chocolate" and use it to yourself, the "Dragon_maid" will use heal magic to you.
+(If you already made "Anchin_chocolate" at 1-1, you have to make one more "Anchin_chocolate".)
 
 
 2. From now "Dragon_maid" will follow you and drop "piece_of_LOVE"
 
-3. collect "piece_of_LOVE" and make 
+3. collect "piece_of_LOVE" and make 'maid machines'
+
+4. 
+
+5.
